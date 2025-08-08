@@ -1,103 +1,126 @@
-<div align="center">
-  <img height="350" width="1400" src="pd.png"  />
-</div>
+- 👋 Hi, Welcome to my profile.
 
-###
+### 👨🏻‍💻 &nbsp;About Me
 
-<h1 align="left">Hello, I'm P D, an iOS Engineer 👋🏻.</h1>
+Experienced Cybersecurity and IOS Engineer || Full-Stack Developer
+------------------------------------------------------------------
 
-###
+Hello! Everyone, I’m a Cybersecurity & Software Engineer. I’m a passionate engineer with 2+ years of experience at the intersection of Cybersecurity, IOS Engineer, and Full-Stack Development. My mission is to build secure, intelligent systems that defend against real-world threats and scale reliably in production.
 
-<h6 align="left">👨🏻‍💻 I do freelance work as an iOS Engineer.<br>🛜 currently working on the Rust Project<br>👨🏻‍🎓 studying/learning CTF</h6>
+*   🧠  I'm learning Generative AI
+*   🤝  I'm open to collaborating on Cybersecurity & Full Stack### Skills
 
-###
+*   
+### 🛠 &nbsp;Tech Experience Stack
 
-<h2 align="left">Tech Stack:</h2>
+#### &nbsp; 🧠 AI
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-05122A?style=flat&logo=transformers&logoColor=A8B9CC)](#)&nbsp;
+[![HuggingFace](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=A8B9CC)](#)&nbsp;
+[![Tensorflow](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers&logoColor=A8B9CC)](#)&nbsp;
+[![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&logoColor=A8B9CC)](#)&nbsp;
+[![ml5](https://img.shields.io/badge/-ml5.js-05122A?style=flat&logo=ml5.js&logoColor=A8B9CC)](#)&nbsp;
 
-###
 
-<h5 align="center">Languages</h5>
+#### &nbsp; ✨ Programming Language
 
-###
+[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)](#)&nbsp;
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;
+[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](#)&nbsp;
+[![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua&logoColor=00599C)](#)&nbsp;
+[![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake)](#)&nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](#)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=007ACC)](#)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)&nbsp;
+[![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=007ACC)](#)&nbsp;
+[![IDA Pro](https://img.shields.io/badge/-IDA%20Pro%20-05122A?style=flat)](#)&nbsp;
+[![x64 dbg](https://img.shields.io/badge/-x64%20dbg%20-05122A?style=flat)](#)&nbsp;
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)&nbsp;
+ [![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)](#nbsp);
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=rust" height="25" alt="rust logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="25" alt="svelte logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="25" alt="latex logo"  />
-</div>
+#### &nbsp; 🌌 Web
 
-###
+[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=A8B9CC)](#)&nbsp;
+[![js](https://img.shields.io/badge/-Js-05122A?style=flat&logo=javascript&logoColor=A8B9CC)](#)&nbsp;
+[![WebRTC](https://img.shields.io/badge/-WebRTC-05122A?style=flat&logo=webrtc&logoColor=A8B9CC)](#)&nbsp;
+[![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=JSON&logoColor=A8B9CC)](#)&nbsp;
+[![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=A8B9CC)](#)&nbsp;
+[![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=A8B9CC)](#)&nbsp;
+[![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=A8B9CC)](#)&nbsp;
+[![LESS](https://img.shields.io/badge/-LESS-05122A?style=flat&logo=LESS&logoColor=A8B9CC)](#)&nbsp;
+[![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SCSS&logoColor=A8B9CC)](#)&nbsp;
+[![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML&logoColor=A8B9CC)](#)&nbsp;
+[![WebRTC](https://img.shields.io/badge/-REST_api-05122A?style=flat&logo=restapi&logoColor=A8B9CC)](#)&nbsp;
+[![WebSocket](https://img.shields.io/badge/-WebSocket-05122A?style=flat&logo=websocket&logoColor=A8B9CC)](#)&nbsp;
+[![webxr](https://img.shields.io/badge/-WebXr-05122A?style=flat&logo=WebXR&logoColor=A8B9CC)](#)&nbsp;
+[![8thWall](https://img.shields.io/badge/-8thWall-05122A?style=flat&logo=8thwall&logoColor=A8B9CC)](#)&nbsp;
+[![ZapWorks](https://img.shields.io/badge/-ZapWorks-05122A?style=flat&logo=ZapWorks&logoColor=A8B9CC)](#)&nbsp;
+[![SarkAR](https://img.shields.io/badge/-SparkAr-05122A?style=flat&logo=Sparkar&logoColor=A8B9CC)](#)&nbsp;
+[![PlayCanvas](https://img.shields.io/badge/-PlayCanvas-05122A?style=flat&logo=PLayCanvas&logoColor=A8B9CC)](#)&nbsp;
+[![Payment Integrations](https://img.shields.io/badge/-Payment_Integrations-05122A?style=flat&logo=Payment_Integrations&logoColor=A8B9CC)](#)&nbsp;
+[![WebAssembly](https://img.shields.io/badge/-WebAssembly-05122A?style=flat&logo=WebAssembly&logoColor=A8B9CC)](#)&nbsp;
 
-<h5 align="center">Framework / Hosting</h5>
+#### &nbsp; 💾 Databases
 
-###
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=A8B9CC)](#)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=A8B9CC)](#)&nbsp;
+[![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=MariaDB&logoColor=A8B9CC)](#)&nbsp;
+[![Oracle Sql](https://img.shields.io/badge/-OracleSQL-05122A?style=flat&logo=Oracle&logoColor=A8B9CC)](#)&nbsp;
+[![Oracle Sql](https://img.shields.io/badge/-OracleSQL-05122A?style=flat&logo=Oracle&logoColor=A8B9CC)](#)&nbsp;
+[![Microsoft SQL server](https://img.shields.io/badge/-Microsoft_SQL_server-05122A?style=flat&logo=MicrosoftSQLserver&logoColor=A8B9CC)](#)&nbsp;
+[![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&logoColor=A8B9CC)](#)&nbsp;
+[![Memcached](https://img.shields.io/badge/-Memcached-05122A?style=flat&logo=Memcached&logoColor=A8B9CC)](#)&nbsp;
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="googlecloud logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="25" alt="cloudflare logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=vue" height="25" alt="vuejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
-</div>
+#### &nbsp; ⚡ PHP Libraries & Frameworks & CMS
 
-###
+[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=A8B9CC)](#)&nbsp;
+[![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony&logoColor=A8B9CC)](#)&nbsp;
+[![Smarty](https://img.shields.io/badge/-Smarty-05122A?style=flat&logo=smarty&logoColor=A8B9CC)](#)&nbsp;
+[![Ratchet Websocket](https://img.shields.io/badge/-Ratchet_WebSocket-05122A?style=flat&logo=ratchet&logoColor=A8B9CC)](#)&nbsp;
+[![Php Spread Sheet](https://img.shields.io/badge/-Php_Spread_Sheet-05122A?style=flat&logo=PhpSpreadSheet&logoColor=A8B9CC)](#)&nbsp;
+[![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=A8B9CC)](#)&nbsp;
+[![Joomla](https://img.shields.io/badge/-Joomla-05122A?style=flat&logo=joomla&logoColor=A8B9CC)](#)&nbsp;
+[![October CMS](https://img.shields.io/badge/-October_CMS-05122A?style=flat&logo=OctobeCMS&logoColor=A8B9CC)](#)&nbsp;
+[![Laravel Voyager](https://img.shields.io/badge/-Laravel_Voyager-05122A?style=flat&logo=Voyager&logoColor=A8B9CC)](#)&nbsp;
+[![Laravel Nova](https://img.shields.io/badge/-Laravel_Nova-05122A?style=flat&logo=laravelNova&logoColor=A8B9CC)](#)&nbsp;
+[![ModX](https://img.shields.io/badge/-ModX-05122A?style=flat&logo=ModX&logoColor=A8B9CC)](#)&nbsp;
+[![DialogFlow](https://img.shields.io/badge/-DialogFlow-05122A?style=flat&logo=DialogFlow&logoColor=A8B9CC)](#)&nbsp;
+[![Telegram Api](https://img.shields.io/badge/-Telegram_API_(bots)-05122A?style=flat&logo=Telegram&logoColor=A8B9CC)](#)&nbsp;
+[![Viber Api](https://img.shields.io/badge/-Viber_API_(bots)-05122A?style=flat&logo=Viber&logoColor=A8B9CC)](#)&nbsp;
+[![Binance Api+Sockets](https://img.shields.io/badge/-Binance_API+Sockets-05122A?style=flat&logo=Binance&logoColor=A8B9CC)](#)&nbsp;
 
-<h5 align="center">Database</h5>
 
-###
+#### &nbsp; 🚀 JavaScript Libraries & Frameworks
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="sqlite logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="20" alt="prisma logo"  />
-</div>
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=A8B9CC)](#)&nbsp;
+[![Lodash](https://img.shields.io/badge/-Lodash-05122A?style=flat&logo=Lodash&logoColor=A8B9CC)](#)&nbsp;
+[![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery&logoColor=A8B9CC)](#)&nbsp;
+[![gulp](https://img.shields.io/badge/-gulp-05122A?style=flat&logo=gulp&logoColor=A8B9CC)](#)&nbsp;
+[![WebPack](https://img.shields.io/badge/-WebPack-05122A?style=flat&logo=webpack&logoColor=A8B9CC)](#)&nbsp;
+[![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&logoColor=A8B9CC)](#)&nbsp;
+[![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js&logoColor=A8B9CC)](#)&nbsp;
+[![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=Nuxt.js&logoColor=A8B9CC)](#)&nbsp;
+[![ThreeJs](https://img.shields.io/badge/-ThreeJs-05122A?style=flat&logo=three.js&logoColor=A8B9CC)](#)&nbsp;
+[![R3F](https://img.shields.io/badge/-R3F-05122A?style=flat&logo=react-three-fiber&logoColor=A8B9CC)](#)&nbsp;
+[![AFrame](https://img.shields.io/badge/-AFrame-05122A?style=flat&logo=aframe&logoColor=A8B9CC)](#)&nbsp;
+[![Locomotive Scroll](https://img.shields.io/badge/-Locomotive_Scroll-05122A?style=flat&logo=Locomotivescroll&logoColor=A8B9CC)](#)&nbsp;
+[![TadingView](https://img.shields.io/badge/-TadingView-05122A?style=flat&logo=TadingView&logoColor=A8B9CC)](#)&nbsp;
+[![Parsley](https://img.shields.io/badge/-Parsley-05122A?style=flat&logo=Parsley&logoColor=A8B9CC)](#)&nbsp;
+[![Chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=Chart.js&logoColor=A8B9CC)](#)&nbsp;
 
-###
+#### &nbsp; 💡 DevOps
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep60&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="139" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deep60&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="139" alt="languages graph"  />
-</div>
-
-###
+[![Windows](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
+[![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
+[![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=A8B9CC)](#)&nbsp;
+[![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon&logoColor=A8B9CC)](#)&nbsp;
+[![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx&logoColor=A8B9CC)](#)&nbsp;
+[![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&logoColor=A8B9CC)](#)&nbsp;
+[![IspManager](https://img.shields.io/badge/-IspManager-05122A?style=flat&logo=ispmanager&logoColor=A8B9CC)](#)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=A8B9CC)](#)&nbsp;
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu&logoColor=A8B9CC)](#)&nbsp;
+[![CentOs](https://img.shields.io/badge/-CentOs-05122A?style=flat&logo=Centos&logoColor=A8B9CC)](#)&nbsp;
+[![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=A8B9CC)](#)&nbsp;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deep60/P-Deepanshu/output/github-snake-dark.svg" />
